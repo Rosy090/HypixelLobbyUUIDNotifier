@@ -1,0 +1,7 @@
+{
+  "name": "HypixelLobbyUUIDNotifier",
+  "creator": "YourName",
+  "version": "1.1.0",
+  "description": "Alerts when specified UUIDs (with aliases) appear in a Hypixel lobby—checked every minute.",
+  "entry": "index.js"
+}
