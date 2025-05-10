@@ -4,8 +4,8 @@ A ChatTriggers module that alerts when specified UUIDs (with aliases) appear in 
 
 ## Commands
 
-- /targetadduuid <uuid> <alias>
-- /targetremoveuuid <uuid>
+- /targetadduuid (uuid) (alias)
+- /targetremoveuuid (uuid)
 - /targetlistuuid
 - /scan
-- /setscaninterval <seconds>
+- /setscaninterval (seconds)
