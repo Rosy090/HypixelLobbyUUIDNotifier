@@ -1,2 +1,11 @@
 # HypixelLobbyUUIDNotifier
-Provides a way for users to check if a certain user is in their hypixel lobby.
+
+A ChatTriggers module that alerts when specified UUIDs (with aliases) appear in a Hypixel lobby.
+
+## Commands
+
+- /targetadduuid <uuid> <alias>
+- /targetremoveuuid <uuid>
+- /targetlistuuid
+- /scan
+- /setscaninterval <seconds>
